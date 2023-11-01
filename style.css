@@ -14,7 +14,7 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: normal;
     padding:15px;
-    color: black;
+    color: rgba(255, 255, 255, 0.034);
     text-align: center;
     text-transform: capitalize;
 }
